@@ -1,7 +1,6 @@
 # 🗄 Database Schema
 
-## ER Diagram
-[Insert diagram: Users, Jobs, Subcontractors, Payments, Documents]
+
 
 ## Key Tables
 ### Users
